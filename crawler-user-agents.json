@@ -2981,5 +2981,28 @@
      "instances": [
        "Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)"
      ]
+  },
+  {
+     "pattern": "zgrab",
+     "addition_date": "2018/08/30",
+     "instances": [
+       "Mozilla/5.0 zgrab/0.x"
+     ],
+    "url": "https://zmap.io/"
+  },
+  {
+     "pattern": "PR-CY.RU",
+     "addition_date": "2018/08/30",
+     "instances": [
+       "Mozilla/5.0 (compatible; PR-CY.RU; + https://a.pr-cy.ru)"
+     ],
+    "url": "https://a.pr-cy.ru/"
+  },
+  {
+     "pattern": "AdsTxtCrawler",
+     "addition_date": "2018/08/30",
+     "instances": [
+       "AdsTxtCrawler/1.0"
+     ]
   }
 ]
